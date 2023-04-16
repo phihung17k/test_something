@@ -3,7 +3,7 @@
 ## Generated with https://github.com/google/shaka-packager version v2.4.3-dd98700-release
 #EXT-X-TARGETDURATION:7
 #EXT-X-PLAYLIST-TYPE:VOD
-https://dcdn.diijam.net/static/hls/c2ad543645e15fcda97ce1aef135fa79/#EXT-X-MAP:URI="audio/init.mp4"
+#EXT-X-MAP:URI="https://dcdn.diijam.net/static/hls/c2ad543645e15fcda97ce1aef135fa79/audio/init.mp4"
 #EXTINF:6.014,
 https://dcdn.diijam.net/static/hls/c2ad543645e15fcda97ce1aef135fa79/audio/1.m4s
 #EXTINF:5.991,
